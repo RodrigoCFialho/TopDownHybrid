@@ -100,3 +100,5 @@ TopDownHybrid/Saved/Logs/AutoSDKInfo.txt
 TopDownHybrid/Saved/Logs/TopDownHybrid.log
 TopDownHybrid/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_67bacdd81a65e5e9/Default/DDCKey-Editor.txt
 TopDownHybrid/Saved/UnrealBuildTool/BuildConfiguration.xml
+/TopDownHybrid/Saved
+/TopDownHybrid/Intermediate/CachedAssetRegistry
